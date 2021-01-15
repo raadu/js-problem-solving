@@ -1,0 +1,24 @@
+{
+  "name": "js-problem-solving",
+  "version": "1.0.0",
+  "description": "",
+  "main": "multiplyDivision.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raadu/js-problem-solving.git"
+  },
+  "author": "raadu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raadu/js-problem-solving/issues"
+  },
+  "homepage": "https://github.com/raadu/js-problem-solving#readme",
+  "dependencies": {
+    "atob": "^2.1.2",
+    "js-base64": "^3.6.0",
+    "opn": "^6.0.0"
+  }
+}
