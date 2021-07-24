@@ -19,3 +19,4 @@ function last(a, n) {
   console.log(last([7, 9, 0, -2]));
   console.log(last([7, 9, 0, -2],3));
   console.log(last([7, 9, 0, -2],6));
+  console.log(last([7, 9, 0, -2],-4));
