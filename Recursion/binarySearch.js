@@ -8,8 +8,6 @@ function binarySearch(arr, n, low, high) {
     let lowerbound = low;
     let upperbound = high;
     let midPoint = Math.floor((upperbound+lowerbound)/2);
-
-    console.log('midPoint: ', midPoint);
     
     if(target > sampleArray[upperbound] || target < sampleArray[lowerbound]) return "Target does not exists";
     if(upperbound < lowerbound) return "Target does not exists";
